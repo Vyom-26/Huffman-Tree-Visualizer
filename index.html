@@ -26,25 +26,42 @@
 
   <!-- Add your site or application content here -->
 
-  <div class="boxes">
-    <textarea class="sc" id="paragraph_text" cols="51" rows="15" placeholder="Your Text"></textarea>
-    <div id="text_digit" class="digit">0</div>
-
-    <div class="sc" id="binary"></div>
-    <div id="binary_digit" class="digit">0</div>
-
-    <div id="result">0</div>
-    <div class="sc" id="coded"></div>
-    <div id="encoded_digit" class="digit">0</div>
+  <div>
+    <h1 style="text-align: center">
+      Huffman Tree Visualizer
+    </h1>
   </div>
 
-  <div class="box graph" id="huffman"></div>
+  <div>
+    <div class="boxes" style="margin-top: 10px">
+      <textarea class="sc" id="paragraph_text" oninput="convert(), main()" cols="51" rows="15" placeholder="Your Text"></textarea>
+      <div id="text_digit" class="digit">0</div>
 
-  <div class="sc" id="freq"></div>
+      <button id="bin_click">Hide</button>
+      <div class="sc" id="binary"></div>
+      <div id="binary_digit" class="digit">0</div>
+
+      <div id="result">0</div>
+      <button id="code_click">Hide</button>
+      <div class="sc" id="coded"></div>
+      <div id="encoded_digit" class="digit">0</div>
+    </div>
+
+    <div>
+      <div class="box graph" id="huffman" style="margin-top: 100px"></div>
+
+      <button id="freq_btn" style="margin-top: 100px">Hide</button>
+      <div class="sc" id="freq" style="margin-top: 100px"></div>
+    </div>
+
+  </div>
+
 
 
   <script src="js/app.js"></script>
-
+  <script src="js/huffman.js"></script>
+  <script src="js/draw.js"></script>
+  <script src="js/d3js.js"></script>
 </body>
 
 </html>
