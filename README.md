@@ -128,6 +128,7 @@ Huffman-Tree-Visualizer/
 
 ![Screenshot 2024-09-18 154232](https://github.com/user-attachments/assets/e8c0c7eb-5b5e-42ae-b2f8-79cefd034634)
 *Huffman Tree Created*
+
 ---
 
 # Contributing
