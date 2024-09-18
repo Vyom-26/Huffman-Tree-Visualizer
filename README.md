@@ -6,20 +6,20 @@ A dynamic web application to visualize the construction and functionality of Huf
 ---
 
 # Table of Contents
-1. Introduction
-2. How Huffman Encoding Works
-3. Features
-4. Technology Stack
-5. Project Structure
-6. Code Explanation
-    - app.js
-    - huffman.js
-    - draw.js
-    - d3js.js
-7. How the Application Works
-8. Screenshots
-9. Contributing
-10. License
+1. [Introduction](#introduction)
+2. [How Huffman Encoding Works](#how-huffman-encoding-works)
+3. [Features](#features)
+4. [Technology Stack](#technology-stack)
+5. [Project Structure](#project-structure)
+6. [Code Explanation](#code-explanation)
+    - [app.js](#appjs)
+    - [huffman.js](#huffmanjs)
+    - [draw.js](#drawjs)
+    - [d3js.js](#d3jsjs)
+7. [How the Application Works](#how-the-application-works)
+8. [Screenshots](#screenshots)
+9. [Contributing](#contributing)
+10. [License](#license)
 
 ---
 
