@@ -3,6 +3,13 @@
 
 A dynamic web application to visualize the construction and functionality of Huffman Trees, a fundamental algorithm used in data compression. This project offers an interactive visual representation of how Huffman coding compresses data by converting input characters into a binary tree structure.
 
+*Watch the project in action below*
+
+
+https://github.com/user-attachments/assets/04a43c98-d5f6-41de-bc3b-7ebb8b2095bc
+
+
+
 ---
 
 # Table of Contents
