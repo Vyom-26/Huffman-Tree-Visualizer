@@ -78,7 +78,7 @@ Huffman-Tree-Visualizer/
 
 # Code Explanation
 
-1. **app.js**
+## **app.js**
     - **Text Analysis:** The main function collects user input, calculates the frequency of characters in the text, and displays results like total text length and character frequencies.
     - **Binary Conversion:** The convert function converts the input text into its binary representation.
     - **UI Updates:** Functions like binary_btn.onclick, code_btn.onclick, and freq_btn.onclick manage the visibility of sections (binary output, encoding, and frequency data) based on user interaction.
