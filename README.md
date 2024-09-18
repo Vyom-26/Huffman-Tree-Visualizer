@@ -116,7 +116,11 @@ Huffman-Tree-Visualizer/
 --- 
 
 # Screenshots
+![Screenshot 2024-09-18 154207](https://github.com/user-attachments/assets/1ebc207a-5efd-4f4e-90f5-1c6f20f070f4)
+*Project Start Screen* 
 
+![Screenshot 2024-09-18 154232](https://github.com/user-attachments/assets/e8c0c7eb-5b5e-42ae-b2f8-79cefd034634)
+*Huffman Tree Created*
 ---
 
 # Contributing
